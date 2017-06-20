@@ -1,4 +1,0 @@
-Sitemap: https://jochemdeen.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: jochemdeen.github.io
