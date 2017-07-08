@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JD-site</title><link>https://jochemdeen.github.io/</link><description>My site about stuff</description><atom:link href="https://jochemdeen.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:JochemDeen@gmail.com"&gt;Jochem Deen&lt;/a&gt; </copyright><lastBuildDate>Tue, 20 Jun 2017 10:02:54 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://jochemdeen.github.io/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;div&gt;&lt;div class="figure"&gt;
-&lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JD-site</title><link>https://jochemdeen.github.io/</link><description>My site about stuff</description><atom:link href="https://jochemdeen.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:JochemDeen@gmail.com"&gt;Jochem Deen&lt;/a&gt; </copyright><lastBuildDate>Sat, 08 Jul 2017 15:44:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>First post</title><link>https://jochemdeen.github.io/posts/first-post/</link><dc:creator>Jochem Deen</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+    &lt;div class="container" id="notebook-container"&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;
-&lt;p&gt;If you can see this in a web browser, it means you managed to install Nikola,
-and build a site using it. Congratulations!&lt;/p&gt;
-&lt;p&gt;Next steps:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://jochemdeen.github.io/pages/handbook/"&gt;Read the manual&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://getnikola.com"&gt;Visit the Nikola website to learn more&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://jochemdeen.github.io/galleries/demo/"&gt;See a demo photo gallery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://jochemdeen.github.io/pages/listings-demo/"&gt;See a demo listing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://jochemdeen.github.io/pages/slides-demo/"&gt;See a demo slideshow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://jochemdeen.github.io/pages/dr-nikolas-vendetta/"&gt;See a demo of a longer text&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Send feedback to &lt;a class="reference external" href="mailto:info@getnikola.com"&gt;info@getnikola.com&lt;/a&gt;!&lt;/p&gt;&lt;/div&gt;</description><category>blog</category><category>demo</category><category>nikola</category><category>python</category><guid>https://jochemdeen.github.io/posts/welcome-to-nikola/</guid><pubDate>Sat, 31 Mar 2012 02:00:00 GMT</pubDate></item></channel></rss>
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;At the beginning of this year I received the good news that I will be awarded a Marie Skłodowska-Curie individual fellowship (or just a 'Marie Curie'). This is great news and will finance my research for the next two years starting from April. Part of the fellowship goals (as set by the European commission) is to communicate the research that I do towards the public. I kind of like the idea behind this. I suspect the comissions goal is to make it more visible what it is that they are funding (because right now nobody knows, and everybody wants to leave). But it will be fun for me as well to write about stuff for a non-scientific audience (this means no jargon!).So that's what this blog is going to be about. Me writing about science.&lt;/p&gt;
+&lt;p&gt;What will be featured? Most obvious would be my own research. However, there's not that much to write about all the time. Science moves slow, and writing about failure just depresses me... So I can naturally write about all the cool things that other labs (competitors) are doing (probably this will be depressing as well though: look what they can do that I cannot!) Furthermore, I think I'll probably cover some other things that I think are related in the grand scheme of things. In the end it will probably just boil down to me writing about anything I want.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description><guid>https://jochemdeen.github.io/posts/first-post/</guid><pubDate>Sat, 08 Jul 2017 15:15:45 GMT</pubDate></item></channel></rss>
